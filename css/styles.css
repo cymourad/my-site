@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Rokkitt', serif;
+  font-size: 120%;
+  background-color: #f9f7f7;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.625rem;
+  color: #3f72af;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #3f72af;
+}
+
+h3 {
+  font-family: 'Nunito', sans-serif;
+  color: #112d4e;
+}
+
+a {
+  color: #112d4e;
+}
+
+p {
+  line-height: 2;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.reference {
+  font-size: 7px;
+}
+
+.top-container {
+  background-color: #dbe2ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.profile {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.skills {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-me {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: auto;
+  width: 40%;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #dbe2ef;
+  border-width: 5px;
+  height: 1px;
+  width: 5%;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #3f72af;
+  padding: 20px;
+  margin: 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 450px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+}
+
+.left-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  background-color: #dbe2ef;
+  border-radius: 100%;
+}
+
+.right-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  background-color: #dbe2ef;
+  border-radius: 100%;
+}
+
+.floating-table {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.inner-table {
+  border-spacing: 5px 10px;
+  align-items: flex-start;
+}
+
+.outter-table {
+  border-spacing: 5px 10px;
+  align-items: flex-start;
+}
+
+.copyright {
+  color: #dbe2ef;
+  font-size: 80%;
+}
+
+.footer {
+  padding: 20px;
+  font-family: 'Nunito', sans-serif;
+  text-decoration: none;
+}
+
+.footer:hover {
+  color: #dbe2ef;
+}
+
+.btn {
+  font-family: 'Rokkitt', serif;
+  background-color: #3f72af;
+  border: none;
+  border-radius: 10px;
+  color: #dbe2ef;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn:hover {
+  background-color: #dbe2ef;
+  color: #3f72af;
+  border: 2px solid #3f72af;
+}
